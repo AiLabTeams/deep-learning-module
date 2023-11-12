@@ -1,0 +1,8 @@
+所有.py文件若包含第三方库需手动添加
+WavePackage.py用于读取原始光谱数据
+PressPackage.py用于读取原始气压数据
+KsPackage.py包含一些数据拟合相关算法
+Gramme.py格拉姆变换相关
+MyThread.py多线程相关
+Main.ui是可视化程序界面设计文件
+WinForm.py是可视化程序逻辑设计文件
